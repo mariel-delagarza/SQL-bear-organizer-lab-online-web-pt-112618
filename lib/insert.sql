@@ -6,4 +6,3 @@ INSERT INTO bears ('Melissa')
 INSERT INTO bears ('Grinch')
 INSERT INTO bears ('Wendy')
 INSERT INTO bears (NULL)
-
